@@ -10,7 +10,7 @@ SQL · Python · React · JavaScript · CSS · HTML
 **Favorite Tools:**
 Freeform · Google Workspace · Jupyter Notebooks · VS Code · Looker Studio
 
-**Interests/Hobbies:**
+## 📚  My Interests
 Financial Markets · Personal Investing · Basketball · Travelling
 
 ---
