@@ -1,7 +1,7 @@
 ## Hi there 👋
 
-I'm **Josh**, a Data Scientist based in Australia.
-I'm currently studying Software Engineering, so view my GitHub as a collection of projects that have interested me along the way.
+I'm **Josh**, a Data Scientist based in Australia.<br>
+  I'm currently studying Software Engineering, so view my GitHub as a collection of projects that have interested me along the way.
 
 ## 🛠️ What I Work With
 **Main Stack:**
