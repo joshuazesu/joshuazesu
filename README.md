@@ -5,7 +5,7 @@ I'm **Josh**, a Data Scientist based in Australia.<br>
 
 ## 🛠️ What I Work With
 **Main Stack:**
-SQL · Python · React · JavaScript · CSS · HTML
+SQL · Python · React · JavaScript · HTML/CSS
 
 **Favorite Tools:**
 Freeform · Google Workspace · Jupyter Notebooks · VS Code · Looker Studio
