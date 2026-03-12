@@ -11,7 +11,7 @@ SQL · Python · React · JavaScript · CSS · HTML
 Freeform · Google Workspace · Jupyter Notebooks · VS Code · Looker Studio
 
 ## 📚  My Interests
-Financial Markets · Personal Investing · Basketball · Travelling
+Financial Markets · Personal Finance · Basketball · Travelling
 
 ## 📌 Featured Projects
 
