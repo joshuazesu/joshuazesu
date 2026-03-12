@@ -1,16 +1,17 @@
 ## Hi there 👋
 
-<!--
-**joshuazesu/joshuazesu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Josh**, a Data Scientist based in Australia.
+I'm currently studying Software Engineering, so view my GitHub as a collection of projects that have interested me along the way.
 
-Here are some ideas to get you started:
+## 🛠️ What I Work With
+**Main Stack:**
+SQL · Python · React · JavaScript · CSS · HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Favorite Tools:**
+Freeform · Google Workspace · Jupyter Notebooks · VS Code · Looker Studio
+
+**Interests/Hobbies:**
+Financial Markets · Personal Investing · Basketball · Travelling
+
+---
+*Currently leveling up from Data Scientist → Software Engineer, one project at a time.*
